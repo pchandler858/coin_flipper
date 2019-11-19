@@ -1,5 +1,5 @@
 import React from "react";
-import CoinContainer from "./components/CoinContainer";
+import CoinContainer from "./CoinContainer";
 import "./App.css";
 
 function App() {

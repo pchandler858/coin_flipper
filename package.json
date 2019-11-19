@@ -1,6 +1,7 @@
 {
   "name": "coin_flipper",
   "version": "0.1.0",
+  "homepage": "http://pchandler858.github.io/{coin_flipper}",
   "private": true,
   "dependencies": {
     "react": "^16.12.0",
